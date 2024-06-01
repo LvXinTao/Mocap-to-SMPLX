@@ -1,0 +1,7 @@
+numpy
+smplx
+scipy
+pytorch3d
+tqdm
+matplotlib
+aitviewer
